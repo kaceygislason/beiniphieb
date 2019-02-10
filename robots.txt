@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iraingu.mongoengine.org/sitemap.xml
